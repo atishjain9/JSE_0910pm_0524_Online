@@ -1,8 +1,12 @@
-class Welcome 
-{
-	public static void main(String[] args) 
-	{
-		System.out.println("Hello World!");
-		System.out.println("I am Learning Java from Atish Jain");
+package com.examples;
+
+public class Welcome {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println("Welcome to Java Programming...");
+
 	}
+
 }
